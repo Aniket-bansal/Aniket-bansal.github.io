@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.95f540ad.css",
-    "main.js": "/static/js/main.a78fa172.js",
+    "main.css": "/static/css/main.2f13b85a.css",
+    "main.js": "/static/js/main.afdec970.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Aniket_Bansal_Profile_Photo.JPG": "/static/media/Aniket_Bansal_Profile_Photo.56dcc7a2486c465e8af9.JPG",
     "index.html": "/index.html",
-    "main.95f540ad.css.map": "/static/css/main.95f540ad.css.map",
-    "main.a78fa172.js.map": "/static/js/main.a78fa172.js.map",
+    "main.2f13b85a.css.map": "/static/css/main.2f13b85a.css.map",
+    "main.afdec970.js.map": "/static/js/main.afdec970.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95f540ad.css",
-    "static/js/main.a78fa172.js"
+    "static/css/main.2f13b85a.css",
+    "static/js/main.afdec970.js"
   ]
 }
