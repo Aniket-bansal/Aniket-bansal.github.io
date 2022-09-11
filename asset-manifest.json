@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.125596c6.css",
-    "main.js": "/static/js/main.5a19ee8b.js",
+    "main.css": "/static/css/main.c33fca26.css",
+    "main.js": "/static/js/main.5c83c0bb.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/contact-banner.jpg": "/static/media/contact-banner.231f3235e10e11a30cc3.jpg",
     "static/media/Aniket_Bansal_Profile_Photo.JPG": "/static/media/Aniket_Bansal_Profile_Photo.56dcc7a2486c465e8af9.JPG",
     "index.html": "/index.html",
-    "main.125596c6.css.map": "/static/css/main.125596c6.css.map",
-    "main.5a19ee8b.js.map": "/static/js/main.5a19ee8b.js.map",
+    "main.c33fca26.css.map": "/static/css/main.c33fca26.css.map",
+    "main.5c83c0bb.js.map": "/static/js/main.5c83c0bb.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.125596c6.css",
-    "static/js/main.5a19ee8b.js"
+    "static/css/main.c33fca26.css",
+    "static/js/main.5c83c0bb.js"
   ]
 }
